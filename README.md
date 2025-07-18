@@ -1,4 +1,4 @@
-#  RAG (Retrieval-Augmented Generation) Document QA App
+#  RAG (Retrieval-Augmented Generation) Document Intelligence system or RAG Q/A App
 
 This is a full-stack **RAG (Retrieval-Augmented Generation)** application built with **FastAPI**, **Gradio**, and **Groq** (LLama3). The app allows users to upload documents (PDF, DOCX, TXT, HTML), ask natural language questions, and receive context-based answers.
 
