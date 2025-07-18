@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+gradio
+requests
+python-docx
+beautifulsoup4
+PyMuPDF
+faiss-cpu
+sentence-transformers
