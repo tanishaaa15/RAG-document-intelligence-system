@@ -4,7 +4,7 @@ This is a full-stack **RAG (Retrieval-Augmented Generation)** application built 
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  Supports document upload: `.pdf`, `.docx`, `.txt`, `.html`
 -  Automatically extracts and chunks text
@@ -26,7 +26,7 @@ This is a full-stack **RAG (Retrieval-Augmented Generation)** application built 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 rag_app/
 
 ├──app/
